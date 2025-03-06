@@ -1,0 +1,22 @@
+.card {
+  border: 1px solid #000;
+  border-radius: 8px;
+  max-width: 250px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card h3, p {
+  margin: 5px;
+}
+
+.container {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 12px;
+  display: flex;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
